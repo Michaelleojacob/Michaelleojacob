@@ -1,6 +1,6 @@
 ### Hey, I'm Michael
 
-I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
+I have a passion for code, and solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
 
 I solve difficult problems with simple but elegant solutions.
 
