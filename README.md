@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-]
-
 - 🔭 I’m currently working on https://www.theodinproject.com/
 - 🌱 I’m currently growing my skills and always wanting to get better
 - 👯 I’m looking to collaborate on anything javascript, or Ruby
@@ -26,8 +24,5 @@
 [<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]() [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 ]() [<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>]()
 
-### Currently learning
-
-[<img src='https://img.icons8.com/color/344/golang.png' height='100'>]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
