@@ -1,5 +1,12 @@
 ### Hey, I'm Michael
 
+I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
+
+I solve difficult problems with simple but elegant solutions.
+
+Currently looking for full time work as: 
+Software Developer, Web Dev, QA Tester, Software Support, and Frontend Dev.
+
 - 🔭 I’m currently working on https://www.theodinproject.com/
 - 🌱 I’m currently growing my skills and always wanting to get better
 - 👯 I’m looking to collaborate on anything javascript, or Ruby
