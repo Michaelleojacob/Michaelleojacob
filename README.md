@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Michael
 
 - 🔭 I’m currently working on https://www.theodinproject.com/
 - 🌱 I’m currently growing my skills and always wanting to get better
