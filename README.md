@@ -1,19 +1,19 @@
 ### Hey, I'm Michael
 
-I have a passion for code, and solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
+I press buttons, click clack on the keyboard and solve stuff and create things. It's like magic.
 
-I solve difficult problems with simple but elegant solutions.
+Enjoy solving difficult problems with simple but elegant solutions.
 
 Currently looking for full time work as: 
-Software Developer, Web Dev, QA Tester, Software Support, and Frontend Dev.
+Software Developer, React Dev, Web Dev, QA Tester, Software Support, Frontend Dev.
 
-- 🔭 I’m currently working on https://www.theodinproject.com/
-- 🌱 I’m currently growing my skills and always wanting to get better
-- 👯 I’m looking to collaborate on anything javascript, or Ruby
-- 🤔 I’m looking for help with different approachs to problem solving. There is always something to be learned from others
+- 🔭 Currently working on https://www.theodinproject.com/
+- 🌱 Always growing my skills and always wanting to get better
+- 👯 Would love to to collaborate on anything javascript, React/Angular/Vue or Ruby related
+- 🤔 Sekking understanding from others about different approachs to problem solving. There is always something to be learned from others
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: michaelleojacob@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Find me on Linkedin: https://www.linkedin.com/in/michael-leo-jacob/
 - ⚡ Fun fact: I practice active and reflect listening, and do sessions quite often for people at HealthyGamer.gg and reddit.
 
 
