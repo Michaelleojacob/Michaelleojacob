@@ -1,6 +1,6 @@
 ### Hey, I'm Michael
 
-I press buttons, click clack on the keyboard and solve stuff and create things. It's like magic.
+I mainly press buttons or click & clack on the keyboard. In doing so I create or solve stuff and things, it is basically magic.
 
 Enjoy solving difficult problems with simple but elegant solutions.
 
