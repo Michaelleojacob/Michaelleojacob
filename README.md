@@ -11,7 +11,7 @@ Software Developer, React Dev, Web Dev, QA Tester, Software Support, Frontend De
 - 🌱 Always growing my skills and always wanting to get better
 - 👯 Would love to to collaborate on anything javascript, React/Angular/Vue or Ruby related
 - 🤔 Sekking understanding from others about different approachs to problem solving. There is always something to be learned from others
-- 💬 Ask me about myself or my code
+- 💬 Ask me about myself or my code. You can find my portfolio at: https://michaelleojacob.github.io/reactportfolio/
 - 📫 How to reach me: michaelleojacob@gmail.com
 - 😄 Find me on Linkedin: https://www.linkedin.com/in/michael-leo-jacob/
 - ⚡ Fun fact: I practice active and reflect listening, and do sessions quite often for people at HealthyGamer.gg and reddit.
